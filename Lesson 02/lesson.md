@@ -1,16 +1,10 @@
-# Lesson 2: Variables in Python
+# Lesson 2: User Input
 
-## What is a Variable?
-- A variable is a container for storing data values.
-- Think of it as a box with a name.
+input()
 
-## Rules for Variable Names
-✅ Can contain letters, numbers, underscores  
-❌ Cannot start with a number  
-❌ No special characters like @, #, %  
+Converting to int, float
+Multiple inputs
 
-## Data Types in Python
-- int → whole numbers (10, -5)
-- float → decimal numbers (3.14)
-- str → text ("Hello")
-- bool → True/False
+
+- `input()` function takes input as a string.
+- Use `int()` or `float()` to convert.
