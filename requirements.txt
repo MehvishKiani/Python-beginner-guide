@@ -1,0 +1,4 @@
+# Everything in the lessons uses only the Python standard library (Python 3.10+).
+# Install these to run the notebooks locally:
+notebook>=7.0
+ipykernel>=6.0

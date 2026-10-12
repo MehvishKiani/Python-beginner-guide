@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Files created while running the lessons/projects
+todo.json
+notes*.txt
+students.csv
+profile.json
+records.json
+numbers.txt
+sample.txt
+mytools.py
+shapes/
+reports/
+temp_folder/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
